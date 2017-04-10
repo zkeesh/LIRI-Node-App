@@ -1,0 +1,27 @@
+{
+  "name": "zkeesh",
+  "version": "1.0.0",
+  "description": "SIRI assignment built for the command line interface",
+  "main": "keys.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zkeesh/LIRI-Node-App.git"
+  },
+  "keywords": [
+    "CLI",
+    "Git",
+    "Node",
+    "Commands"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkeesh/LIRI-Node-App/issues"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
